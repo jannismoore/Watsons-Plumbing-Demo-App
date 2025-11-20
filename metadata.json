@@ -1,0 +1,7 @@
+{
+  "name": "Watson's Plumbing AI",
+  "description": "A demonstration of Voice AI for a legacy plumbing and heating business, featuring Front Desk and Emergency Dispatch modes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
